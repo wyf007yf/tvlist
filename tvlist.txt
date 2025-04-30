@@ -129,24 +129,24 @@ CCTV8K,webview://https://www.yangshipin.cn/tv/home?pid=600156816
 新疆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600152138
 兵团卫视,webview://https://www.yangshipin.cn/tv/home?pid=600193252
 
-地方频道,#genre#
+山东频道,#genre#
 山东体育,http://119.167.22.213:4022/rtp/239.253.254.22:8000
 山东体育,webview://https://v.iqilu.com/live/typd/
 山东教育,https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 山东教育,https://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8
 山东教育,http://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8
 山东教育,http://221.0.78.198:1681/hls/10221/index.m3u8
+山东新闻,http://119.167.22.213:4022/rtp/239.253.254.23:8000
 山东新闻,webview://https://v.iqilu.com/live/ggpd/
+山东齐鲁,http://119.167.22.213:4022/rtp/239.253.254.114:8000
 山东齐鲁,webview://https://v.iqilu.com/live/qlpd/
-山东齐鲁,http://61.156.228.12:8154/tsfile/live/1001_1.m3u8
-山东齐鲁,http://123.132.233.194:352/tsfile/live/1019_1.m3u8
-山东齐鲁,http://61.156.228.12:8154/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-山东齐鲁,http://123.130.84.106:8154/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+山东生活,http://119.167.22.213:4022/rtp/239.253.254.151:8000
 山东生活,webview://https://v.iqilu.com/live/shpd/
+山东综艺,http://119.167.22.213:4022/rtp/239.253.254.159:8000
 山东综艺,webview://https://v.iqilu.com/live/zypd/
-山东综艺,http://123.132.233.194:352/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-山东综艺,http://221.2.148.205:8154/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 山东农科,webview://https://v.iqilu.com/live/nkpd/
+山东文旅,http://119.167.22.213:4022/rtp/239.253.254.160:8000
 山东文旅,webview://https://v.iqilu.com/live/yspd/
+山东少儿,http://119.167.22.213:4022/rtp/239.253.254.24:8000 少儿
 山东少儿,webview://https://v.iqilu.com/live/sepd/
-◀点击刷新IP信息
+山东农科,http://119.167.22.213:4022/rtp/239.253.254.25:8000
