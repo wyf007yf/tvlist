@@ -125,7 +125,7 @@ CCTV8K,webview://https://www.yangshipin.cn/tv/home?pid=600156816
 山西卫视,webview://https://www.yangshipin.cn/tv/home?pid=600190407
 青海卫视,webview://https://www.yangshipin.cn/tv/home?pid=600190406
 西藏卫视,webview://https://www.yangshipin.cn/tv/home?pid=600190403
-中国教育电视台,webview://https://www.yangshipin.cn/tv/home?pid=600171827
+CETV1,webview://https://www.yangshipin.cn/tv/home?pid=600171827
 新疆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600152138
 兵团卫视,webview://https://www.yangshipin.cn/tv/home?pid=600193252
 
