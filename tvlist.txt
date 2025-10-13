@@ -1,7 +1,7 @@
 央视频道,#genre#
-CCTV-1,https://iptv.45678888.xyz:10005/zb/xyz.php?script=henan&id=cctv1&token=g3M6Hyky
 CCTV-1,https://iptv.45678888.xyz:10005/zb/xyz.php?script=henan&id=cctv1a&token=g3M6Hyky
 CCTV-1,https://iptv.45678888.xyz:10005/zb/xyz.php?script=henan&id=cctv1b&token=g3M6Hyky
+CCTV-1,https://iptv.45678888.xyz:10005/zb/xyz.php?script=henan&id=cctv1&token=g3M6Hyky
 CCTV-2,https://iptv.45678888.xyz:10005/zb/xyz.php?script=henan&id=cctv2&token=g3M6Hyky
 CCTV-2,https://iptv.45678888.xyz:10005/zb/xyz.php?script=henan&id=cctv2a&token=g3M6Hyky
 CCTV-3,https://iptv.45678888.xyz:10005/zb/xyz.php?script=henan&id=cctv3&token=g3M6Hyky
