@@ -1,4 +1,6 @@
 央视频道,#genre#
+CCTV4,rtmp://ddns4.198196.xyz:50001/iptv/cctv4
+CCTV13,rtmp://ddns4.198196.xyz:50001/iptv/cctv13
 CCTV1,http://m.061899.xyz/mg/cctv1
 CCTV2,http://m.061899.xyz/mg/cctv2
 CCTV3,http://m.061899.xyz/mg/cctv3
@@ -56,6 +58,7 @@ CCTV4K,webview://https://www.yangshipin.cn/tv/home?pid=600002264
 CCTV8K,webview://https://www.yangshipin.cn/tv/home?pid=600156816
 
 卫视频道,#genre#
+山东卫视,rtmp://ddns4.198196.xyz:50001/iptv/shandongws
 北京卫视,http://go.bkpcp.top/mg/bjws
 东方卫视,http://go.bkpcp.top/mg/dfws
 浙江卫视,http://go.bkpcp.top/mg/zjws
