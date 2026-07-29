@@ -2,13 +2,8 @@
 CCTV1,http://m.061899.xyz/mg/cctv1
 CCTV2,http://m.061899.xyz/mg/cctv2
 CCTV3,http://m.061899.xyz/mg/cctv3
-CCTV4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV4,http://112.46.85.60:8009/hls/4/index.m3u8
-CCTV4,http://183.223.157.33:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,http://123.130.84.106:8154/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,http://112.27.235.94:8000/hls/4/index.m3u8
-CCTV4,rtmp://ddns4.198196.xyz:50001/iptv/cctv4
 CCTV4,http://m.061899.xyz/mg/cctv4
+CCTV4,rtmp://ddns4.198196.xyz:50001/iptv/cctv4
 CCTV5,http://m.061899.xyz/mg/cctv5
 CCTV5+,http://m.061899.xyz/mg/cctv5p
 CCTV6,http://m.061899.xyz/mg/cctv6
@@ -23,8 +18,8 @@ CCTV13,http://112.27.235.94:8000/hls/14/index.m3u8
 CCTV13,http://61.136.172.236:9901/tsfile/live/0013_1.m3u8
 CCTV13,http://183.223.157.33:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://59.39.89.130:60901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,rtmp://ddns4.198196.xyz:50001/iptv/cctv13
 CCTV13,http://m.061899.xyz/mg/cctv13
+CCTV13,rtmp://ddns4.198196.xyz:50001/iptv/cctv13
 CCTV14,http://m.061899.xyz/mg/cctv14
 CCTV15,http://m.061899.xyz/mg/cctv15
 CCTV16,http://m.061899.xyz/mg/cctv16
@@ -68,12 +63,6 @@ CCTV4K,webview://https://www.yangshipin.cn/tv/home?pid=600002264
 CCTV8K,webview://https://www.yangshipin.cn/tv/home?pid=600156816
 
 卫视频道,#genre#
-山东卫视,http://112.27.235.94:8000/hls/34/index.m3u8
-山东卫视,http://61.136.172.236:9901/tsfile/live/0131_1.m3u8
-山东卫视,http://61.136.172.236:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视,http://111.61.236.247:9081/hls/31/index.m3u8
-山东卫视,http://182.150.23.74:808/hls/23/index.m3u8
-山东卫视,rtmp://ddns4.198196.xyz:50001/iptv/shandongws
 北京卫视,http://go.bkpcp.top/mg/bjws
 东方卫视,http://go.bkpcp.top/mg/dfws
 浙江卫视,http://go.bkpcp.top/mg/zjws
@@ -82,6 +71,7 @@ CCTV8K,webview://https://www.yangshipin.cn/tv/home?pid=600156816
 广东卫视,http://go.bkpcp.top/mg/gdws
 深圳卫视,http://go.bkpcp.top/mg/szws
 山东卫视,http://go.bkpcp.top/mg/sdws
+山东卫视,rtmp://ddns4.198196.xyz:50001/iptv/shandongws
 河南卫视,http://go.bkpcp.top/mg/hnws
 江西卫视,http://go.bkpcp.top/mg/jxws
 湖北卫视,http://go.bkpcp.top/mg/hubws
