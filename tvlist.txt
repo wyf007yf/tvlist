@@ -58,6 +58,11 @@ CCTV4K,webview://https://www.yangshipin.cn/tv/home?pid=600002264
 CCTV8K,webview://https://www.yangshipin.cn/tv/home?pid=600156816
 
 卫视频道,#genre#
+山东卫视,http://112.27.235.94:8000/hls/34/index.m3u8
+山东卫视,http://61.136.172.236:9901/tsfile/live/0131_1.m3u8
+山东卫视,http://61.136.172.236:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://111.61.236.247:9081/hls/31/index.m3u8
+山东卫视,http://182.150.23.74:808/hls/23/index.m3u8
 山东卫视,rtmp://ddns4.198196.xyz:50001/iptv/shandongws
 北京卫视,http://go.bkpcp.top/mg/bjws
 东方卫视,http://go.bkpcp.top/mg/dfws
@@ -173,4 +178,5 @@ CETV1,webview://https://www.yangshipin.cn/tv/home?pid=600171827
 山东频道,#genre#
 山东体育,rtmp://ddns4.198196.xyz:50001/iptv/shandongty
 山东综艺,rtmp://ddns4.198196.xyz:50001/iptv/shandongzy
+山东教育,https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 山东教育,rtmp://ddns4.198196.xyz:50001/iptv/shandongjy
