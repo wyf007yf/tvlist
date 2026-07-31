@@ -118,7 +118,7 @@ CETV1,webview://https://www.yangshipin.cn/tv/home?pid=600171827
 山东频道,#genre#
 山东体育,http://182.37.41.46:8154/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 山东体育,http://144.123.165.186:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-山东体育,https://v.iqilu.com/live/typd/
+山东体育,https://tstreamlive302.iqilu.com/291/d9c0aba79a944b41a7f4f1ac422d9808/playlist.m3u8?k=f4aa95201799fb258f0a1bcef69f1e57&t=1785481225
 山东体育,rtmp://ddns4.198196.xyz:50001/iptv/shandongty
 山东综艺,http://144.123.165.186:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 山东综艺,https://v.iqilu.com/live/zypd/
